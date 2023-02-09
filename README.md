@@ -18,6 +18,7 @@ This project demonstrates the use of Selenium WebDriver for automated searching 
 3. Download ChromeDriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
 4. Add the WebDriver to your PATH:
     - Windows: add the path to the WebDriver executable to the PATH environment variable
+    - Mac/Linux: add the path to the WebDriver executable to your .bash_profile or .bashrc file
 5. Clone the repository: git clone https://github.com/shaundawson/Asos-Scraper.git
 6. Navigate to the project directory: cd Asos-Scraper
 
