@@ -1,7 +1,7 @@
 # Asos Scraper: Automated Web Bot with Selinum in Python
 
 ## Introduction
-This project demonstrates the use of Selenium WebDriver for automated searching of asos.com using the Python programming language.
+This project demonstrates the use of Selenium WebDriver for automated searching of websites using the Python programming language. This script goes to Asos.com, returns a list of items, then adds the item with the lowest price to the cart.
 
 ## Features
 - Extract data from asos.com using Selenium WebDriver
@@ -37,6 +37,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 Contact me at iamsdawson@gmail.com for any questions or concerns.
-
-
-this python script, it goes to Asos.com, returns a list of items, then adds the item with the lowest price to the cart.
